@@ -1,0 +1,100 @@
+{
+    "Mercury": {
+        "Climate": "Extremadamente variable, con temperaturas que oscilan entre -173 °C (de noche) y 427 °C (de día).",
+        "TemperaturesCelsius": {
+            "Noche": -173,
+            "Día": 427
+        },
+        "Location": "Cerca del Sol, el planeta más cercano a nuestra estrella.",
+        "Gravity": "0.38 veces la gravedad de la Tierra.",
+        "DistanceFromEarth": "Promedio de 91.7 millones de kilómetros.",
+        "Satellites": "Sin satélites naturales conocidos.",
+        "Description": "Mercurio es un planeta rocoso y desolado con una superficie marcada por cráteres y una falta de atmósfera significativa.",
+        "RelevantPlaces": []
+    },
+    "Venus": {
+        "Climate": "Extremadamente cálido, con una temperatura promedio de 465 °C debido a su densa atmósfera de dióxido de carbono.",
+        "TemperaturesCelsius": {
+            "Superficie": 465
+        },
+        "Location": "Cerca de la Tierra, el segundo planeta más cercano al Sol.",
+        "Gravity": "0.91 veces la gravedad de la Tierra.",
+        "DistanceFromEarth": "Promedio de 41.4 millones de kilómetros.",
+        "Satellites": "Sin satélites naturales conocidos.",
+        "Description": "Venus es un mundo infernal con una atmósfera densa y tóxica que atrapa el calor, lo que lo convierte en el planeta más caliente del sistema solar.",
+        "RelevantPlaces": []
+    },
+    "Mars": {
+        "Climate": "Frigorífico, con temperaturas promedio de -80 °C, una atmósfera delgada de dióxido de carbono y estaciones marcadas.",
+        "TemperaturesCelsius": {
+            "Promedio": -80
+        },
+        "Location": "El cuarto planeta desde el Sol, conocido como el Planeta Rojo.",
+        "Gravity": "0.38 veces la gravedad de la Tierra.",
+        "DistanceFromEarth": "Varía entre 54.6 y 401 millones de kilómetros.",
+        "Satellites": "2 satélites naturales: Fobos y Deimos.",
+        "Description": "Marte es un planeta rocoso con evidencia de agua pasada y posiblemente vida microbiana en el pasado.",
+        "RelevantPlaces": [
+            "Valles Marineris",
+            "Monte Olimpo",
+            "Cráter Gale"
+        ]
+    },
+    "Jupiter": {
+        "Climate": "Sin superficie sólida, pero su atmósfera es conocida por sus bandas de nubes y la Gran Mancha Roja.",
+        "TemperaturesCelsius": {
+            "Atmósfera Superior": -145
+        },
+        "Location": "El quinto planeta desde el Sol, el gigante gaseoso más grande del sistema solar.",
+        "Gravity": "2.53 veces la gravedad de la Tierra.",
+        "DistanceFromEarth": "Varía entre 588 y 968 millones de kilómetros.",
+        "Satellites": "79 satélites naturales conocidos, incluyendo las lunas más grandes: Ío, Europa, Ganimedes y Calisto.",
+        "Description": "Júpiter es un gigante gaseoso sin superficie sólida, con una inmensa atmósfera y un sistema de lunas fascinante.",
+        "RelevantPlaces": [
+            "La Gran Mancha Roja",
+            "Lunas Galileanas"
+        ]
+    },
+    "Saturn": {
+        "Climate": "Sin superficie sólida, pero conocido por sus impresionantes anillos compuestos principalmente de partículas de hielo.",
+        "TemperaturesCelsius": {
+            "Atmósfera Superior": -178
+        },
+        "Location": "El sexto planeta desde el Sol, otro gigante gaseoso.",
+        "Gravity": "1.07 veces la gravedad de la Tierra.",
+        "DistanceFromEarth": "Varía entre 1.2 y 1.7 mil millones de kilómetros.",
+        "Satellites": "83 satélites naturales conocidos, incluyendo Titán, el segundo satélite más grande del sistema solar.",
+        "Description": "Saturno es famoso por sus impresionantes anillos y un sistema de lunas diverso, incluyendo mundos con océanos subsuperficiales.",
+        "RelevantPlaces": [
+            "Anillos de Saturno",
+            "Luna Titán"
+        ]
+    },
+    "Uranus": {
+        "Climate": "Sin superficie sólida, pero su atmósfera contiene gases como metano que le dan su color azul verdoso característico.",
+        "TemperaturesCelsius": {
+            "Atmósfera Superior": -224
+        },
+        "Location": "El séptimo planeta desde el Sol, un gigante de hielo.",
+        "Gravity": "0.89 veces la gravedad de la Tierra.",
+        "DistanceFromEarth": "Varía entre 2.6 y 3 mil millones de kilómetros.",
+        "Satellites": "27 satélites naturales conocidos.",
+        "Description": "Urano es un gigante de hielo inclinado en su órbita, lo que le da una apariencia única en el sistema solar.",
+        "RelevantPlaces": []
+    },
+    "Neptune": {
+        "Climate": "Sin superficie sólida, con una atmósfera rica en metano y un color azul profundo.",
+        "TemperaturesCelsius": {
+            "Atmósfera Superior": -214
+        },
+        "Location": "El octavo planeta desde el Sol, otro gigante de hielo.",
+        "Gravity": "1.14 veces la gravedad de la Tierra.",
+        "DistanceFromEarth": "Varía entre 4.3 y 4.7 mil millones de kilómetros.",
+        "Satellites": "14 satélites naturales conocidos, incluyendo Tritón, que es uno de los pocos satélites retrógrados en el sistema solar.",
+        "Description": "Neptuno es un mundo azul intenso con un viento furioso y un sistema de anillos y lunas fascinantes.",
+        "RelevantPlaces": [
+            "Gran Mancha Oscura",
+            "Tritón"
+        ]
+    }
+}
